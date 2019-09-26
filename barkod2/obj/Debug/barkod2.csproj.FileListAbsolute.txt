@@ -1,0 +1,10 @@
+D:\Yeni klasör\barkod2\barkod2\bin\Debug\barkod2.exe.config
+D:\Yeni klasör\barkod2\barkod2\bin\Debug\barkod2.exe
+D:\Yeni klasör\barkod2\barkod2\bin\Debug\barkod2.pdb
+D:\Yeni klasör\barkod2\barkod2\bin\Debug\Zen.Barcode.Core.dll
+D:\Yeni klasör\barkod2\barkod2\obj\Debug\barkod2.csprojResolveAssemblyReference.cache
+D:\Yeni klasör\barkod2\barkod2\obj\Debug\barkod2.Form1.resources
+D:\Yeni klasör\barkod2\barkod2\obj\Debug\barkod2.Properties.Resources.resources
+D:\Yeni klasör\barkod2\barkod2\obj\Debug\barkod2.csproj.GenerateResource.Cache
+D:\Yeni klasör\barkod2\barkod2\obj\Debug\barkod2.exe
+D:\Yeni klasör\barkod2\barkod2\obj\Debug\barkod2.pdb
